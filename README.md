@@ -1,5 +1,5 @@
 # CCeventcapture
-An 'All-seeing Pi' and Staff Picademy 'Mug Shot' mashup 
+A mashup of 'All-seeing Pi' and Staff Picademy 'Mug Shot' by Tim Wilson, Liz Smart, Sarah Sheerman-Chase, Greg Annandale and Emma Norton.
 
 All files are to be stored in the directory /home/pi/Documents/allseeingpi/ and subdirectory /overlays per structure here. 
 
