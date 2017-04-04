@@ -1,7 +1,7 @@
 # CCeventcapture
 An 'All-seeing Pi' and Staff Picademy 'Mug Shot' mashup 
 
-All file are to be stored in the directory /home/pi/Documents/allseeingpi/
+All files are to be stored in the directory /home/pi/Documents/allseeingpi/ and subdirectory /overlays per structure here. 
 
 This project is for use at Code Club events as a way of showing off the Raspberry Pi, having something interactive for on the PiTop Ceed, sending useful information to people who visit the stand and collecting data for post event analysis. 
 
